@@ -1,3 +1,7 @@
+---
+title: French PlayStation 2 Magazine and Demo Discs.md
+---
+
 Heya, I really love the aspect of Demo discs included in Magazines, and since i can, i decided i wanted to do a proper list, a lot of the data here is taken thanks to Redump and User7,
 
 link http://wiki.redump.org/index.php?title=Sony_PlayStation_2_-_PAL_OPS2M_Magazine_Demo_List#France
@@ -20,4 +24,5 @@ Serial : SCED-50065 <br>
 Disc Label Title : OPS2M Demo 1 <br>
 Demo Disc came in a Flat Square Case <br>
 Photos : <br>
-![Magazine1](/Website/mag1.png) ![Disc1](/Website/photo1.png)
+![Magazine1](/Website/mag1.png){:height="300px" width="100px"}  
+![Disc1](/Website/photo1.png){:height="700px" width="400px"}
