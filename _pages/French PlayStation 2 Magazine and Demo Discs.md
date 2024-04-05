@@ -1,5 +1,6 @@
 Heya, I really love the aspect of Demo discs included in Magazines, and since i can, i decided i wanted to do a proper list, a lot of the data here is taken thanks to Redump and User7,
-{% link http://wiki.redump.org/index.php?title=Sony_PlayStation_2_-_PAL_OPS2M_Magazine_Demo_List#France %}
+
+link http://wiki.redump.org/index.php?title=Sony_PlayStation_2_-_PAL_OPS2M_Magazine_Demo_List#France
 
 This is a work in progress list that will contain :
 
