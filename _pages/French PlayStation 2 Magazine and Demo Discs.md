@@ -24,5 +24,5 @@ Serial : SCED-50065 <br>
 Disc Label Title : OPS2M Demo 1 <br>
 Demo Disc came in a Flat Square Case <br>
 Photos : <br>
-![Magazine1](/Website/mag1.png){:height="300px" width="500px"}  
+![Magazine1](/Website/mag1.png){:height="300px" width="300px"}  
 ![Disc1](/Website/photo1.png){:height="400px" width="500px"}
