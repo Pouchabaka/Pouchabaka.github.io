@@ -13,4 +13,10 @@ This is still early work in progress, the majority of the photos here are taken 
 
 PlayStation 2 Le Magazine Officiel 1 :
 
+Magazine Issue : Numéro 48 / Décembre 2000
+Info : First issue of the PS2 Era magazines, picking up directly after the end of Playstation Magazine issue 47. This Issue was bundled with a Demo disc and a DVD (Need more info on the dvd)
 Serial : SCED-50065
+Disc Label Title : OPS2M Demo 1
+Demo Disc came in a Flat Square Case
+Photos : 
+![Magazine1](/Website/mag1.png) ![Disc1](/Website/photo1.png)
